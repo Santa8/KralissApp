@@ -4,7 +4,7 @@
 
 1) npm install
 2) react-native start
-3) react-native run-adnroid
+3) react-native run-adnroid ( dans un autre terminal)
 
 ## Screens
 
