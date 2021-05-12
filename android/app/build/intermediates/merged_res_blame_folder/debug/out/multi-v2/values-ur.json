@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sanata/Desktop/push/KralissApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/home/sanata/Desktop/test1/KralissApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "/home/sanata/.gradle/caches/transforms-2/files-2.1/222f43782eebddff360724998c4eb188/jetified-play-services-base-17.5.0/res/values-ur/values.xml",

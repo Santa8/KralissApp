@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sanata/Desktop/push/KralissApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
+            "outputFile": "/home/sanata/Desktop/test1/KralissApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
                     "source": "/home/sanata/.gradle/caches/transforms-2/files-2.1/1a3234669c33f9f4072a7bfc84af0390/core-1.2.0/res/values-it/values-it.xml",
