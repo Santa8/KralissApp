@@ -1,0 +1,14 @@
+com/kralissapp/MainApplication.java
+ com.kralissapp.MainApplication
+ com.kralissapp.MainApplication$1
+com/kralissapp/ReactNativeFlipper.java
+ com.kralissapp.ReactNativeFlipper
+ com.kralissapp.ReactNativeFlipper$1
+ com.kralissapp.ReactNativeFlipper$2
+ com.kralissapp.ReactNativeFlipper$2$1
+com/kralissapp/MainActivity.java
+ com.kralissapp.MainActivity
+com/kralissapp/BuildConfig.java
+ com.kralissapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
