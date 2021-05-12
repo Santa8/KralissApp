@@ -10,5 +10,5 @@ Be sure to subscribe to our YouTube channel for more videos like this!
 
 
 
-![alt text](<https://i.ibb.co/dM969kr/download-removebg-preview.png)
+![alt text](https://i.ibb.co/dM969kr/download-removebg-preview.png)
 
